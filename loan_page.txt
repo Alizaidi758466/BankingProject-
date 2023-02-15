@@ -1,0 +1,6 @@
+#About page of Loan
+	this page is designed by Ali Zaidi
+#Day 3 coding in loan details
+{
+print("Hii, welcome to loan section. You can easily read all the process & detail about loan ")
+}
